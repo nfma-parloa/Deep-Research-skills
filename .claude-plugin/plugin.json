@@ -1,0 +1,17 @@
+{
+  "name": "research",
+  "description": "Structured deep research workflow with human-in-the-loop control: outline generation and parallel deep investigation. Supports academic research, technology selection, market research, and due diligence.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Weizhena (upstream) / Parloa DevEx (fork)"
+  },
+  "homepage": "https://github.com/Weizhena/Deep-Research-skills",
+  "repository": "https://github.com/nfma-parloa/Deep-Research-skills",
+  "keywords": [
+    "research",
+    "deep-research",
+    "outline",
+    "investigation",
+    "human-in-the-loop"
+  ]
+}
